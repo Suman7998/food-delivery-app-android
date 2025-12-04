@@ -1,0 +1,82 @@
+com.munchmatch.app-jetified-ui-tooling-preview-release-0 C:\Users\suman\.gradle\caches\8.8\transforms\00ae986c7e6d8f1bc4abdc4939f64c48\transformed\jetified-ui-tooling-preview-release\res
+com.munchmatch.app-jetified-lifecycle-runtime-release-1 C:\Users\suman\.gradle\caches\8.8\transforms\00dec9f31f0a7e1150c476a007ed25b1\transformed\jetified-lifecycle-runtime-release\res
+com.munchmatch.app-jetified-foundation-layout-release-2 C:\Users\suman\.gradle\caches\8.8\transforms\04c061c55349e10cca173f186a83a9ed\transformed\jetified-foundation-layout-release\res
+com.munchmatch.app-recyclerview-1.1.0-3 C:\Users\suman\.gradle\caches\8.8\transforms\06741f8305e7bfd328557460504be855\transformed\recyclerview-1.1.0\res
+com.munchmatch.app-constraintlayout-2.0.1-4 C:\Users\suman\.gradle\caches\8.8\transforms\074cddeb22d0e079371c4568e1f4443c\transformed\constraintlayout-2.0.1\res
+com.munchmatch.app-jetified-material-release-5 C:\Users\suman\.gradle\caches\8.8\transforms\07d271a6c61121f5feff043674e6e2a2\transformed\jetified-material-release\res
+com.munchmatch.app-jetified-lifecycle-runtime-compose-release-6 C:\Users\suman\.gradle\caches\8.8\transforms\088109f610182d79f9784b124e38cac3\transformed\jetified-lifecycle-runtime-compose-release\res
+com.munchmatch.app-navigation-common-ktx-2.8.3-7 C:\Users\suman\.gradle\caches\8.8\transforms\08ca6fc14ce299d6e30419bb0d4b515f\transformed\navigation-common-ktx-2.8.3\res
+com.munchmatch.app-sqlite-framework-2.4.0-8 C:\Users\suman\.gradle\caches\8.8\transforms\0d0b0731845c887237d25c2ac7a79b28\transformed\sqlite-framework-2.4.0\res
+com.munchmatch.app-jetified-play-services-base-18.0.1-9 C:\Users\suman\.gradle\caches\8.8\transforms\10f95230d9d01eec9cad891a5397241a\transformed\jetified-play-services-base-18.0.1\res
+com.munchmatch.app-jetified-animation-release-10 C:\Users\suman\.gradle\caches\8.8\transforms\1289ab6657a2d64d52e57d19776833d7\transformed\jetified-animation-release\res
+com.munchmatch.app-jetified-savedstate-ktx-1.2.1-11 C:\Users\suman\.gradle\caches\8.8\transforms\18c969e22251be160f130238ec157813\transformed\jetified-savedstate-ktx-1.2.1\res
+com.munchmatch.app-jetified-customview-poolingcontainer-1.0.0-12 C:\Users\suman\.gradle\caches\8.8\transforms\1f6f1c7e0f94f5fa97b30fa74c98bab4\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.munchmatch.app-jetified-lifecycle-runtime-ktx-release-13 C:\Users\suman\.gradle\caches\8.8\transforms\23975643c594f5c44180c3a603860c16\transformed\jetified-lifecycle-runtime-ktx-release\res
+com.munchmatch.app-sqlite-2.4.0-14 C:\Users\suman\.gradle\caches\8.8\transforms\23faa4dd288fe78264fb3347f2429588\transformed\sqlite-2.4.0\res
+com.munchmatch.app-appcompat-1.6.1-15 C:\Users\suman\.gradle\caches\8.8\transforms\25e4de51c37d39c8f461f85579a23e9b\transformed\appcompat-1.6.1\res
+com.munchmatch.app-navigation-runtime-2.8.3-16 C:\Users\suman\.gradle\caches\8.8\transforms\28ee60f219ea4d27e2ff5c3341483cb6\transformed\navigation-runtime-2.8.3\res
+com.munchmatch.app-jetified-animation-core-release-17 C:\Users\suman\.gradle\caches\8.8\transforms\2ed12cdc3f875b961ee391fe7dfa755f\transformed\jetified-animation-core-release\res
+com.munchmatch.app-jetified-core-ktx-1.13.1-18 C:\Users\suman\.gradle\caches\8.8\transforms\328e4ada15ace212387b4cb456a45fd9\transformed\jetified-core-ktx-1.13.1\res
+com.munchmatch.app-room-runtime-2.6.1-19 C:\Users\suman\.gradle\caches\8.8\transforms\37600cf2d22d647c8b6873c90f6d312b\transformed\room-runtime-2.6.1\res
+com.munchmatch.app-jetified-emoji2-views-helper-1.3.0-20 C:\Users\suman\.gradle\caches\8.8\transforms\3802ce735d2211c0a921a9c5a8eaaa00\transformed\jetified-emoji2-views-helper-1.3.0\res
+com.munchmatch.app-jetified-savedstate-1.2.1-21 C:\Users\suman\.gradle\caches\8.8\transforms\387f985a23489d9c5eddc4c49f27896e\transformed\jetified-savedstate-1.2.1\res
+com.munchmatch.app-jetified-ui-unit-release-22 C:\Users\suman\.gradle\caches\8.8\transforms\39fe0b7d78377eae5da30fd94ee4cd18\transformed\jetified-ui-unit-release\res
+com.munchmatch.app-core-1.13.1-23 C:\Users\suman\.gradle\caches\8.8\transforms\418d15f68ee9e7d10dcb94480c7969fa\transformed\core-1.13.1\res
+com.munchmatch.app-lifecycle-livedata-2.8.6-24 C:\Users\suman\.gradle\caches\8.8\transforms\44851f6e39560d82f4e6f013a2d5e043\transformed\lifecycle-livedata-2.8.6\res
+com.munchmatch.app-jetified-runtime-saveable-release-25 C:\Users\suman\.gradle\caches\8.8\transforms\47c11afc54f2bbc2084adc534fbcb946\transformed\jetified-runtime-saveable-release\res
+com.munchmatch.app-jetified-material3-release-26 C:\Users\suman\.gradle\caches\8.8\transforms\4a0fcfb220f53192981e1dfdfb0fe75e\transformed\jetified-material3-release\res
+com.munchmatch.app-jetified-lifecycle-viewmodel-release-27 C:\Users\suman\.gradle\caches\8.8\transforms\4c92445b19cd5931e088595c3037f932\transformed\jetified-lifecycle-viewmodel-release\res
+com.munchmatch.app-navigation-runtime-ktx-2.8.3-28 C:\Users\suman\.gradle\caches\8.8\transforms\4eeb7738607b252675971d9946077840\transformed\navigation-runtime-ktx-2.8.3\res
+com.munchmatch.app-jetified-material-icons-core-release-29 C:\Users\suman\.gradle\caches\8.8\transforms\5176229ab099ddfc05a5ec4bec0f676f\transformed\jetified-material-icons-core-release\res
+com.munchmatch.app-jetified-play-services-basement-18.3.0-30 C:\Users\suman\.gradle\caches\8.8\transforms\5a90ea1279e90d04484e8b8bb8ec5a41\transformed\jetified-play-services-basement-18.3.0\res
+com.munchmatch.app-lifecycle-livedata-core-2.8.6-31 C:\Users\suman\.gradle\caches\8.8\transforms\5ac46aa44d60e36bd739c0555bb50672\transformed\lifecycle-livedata-core-2.8.6\res
+com.munchmatch.app-transition-1.5.0-32 C:\Users\suman\.gradle\caches\8.8\transforms\5c569dcbfa5157e9f8c8d233b8044703\transformed\transition-1.5.0\res
+com.munchmatch.app-jetified-credentials-1.2.0-rc01-33 C:\Users\suman\.gradle\caches\8.8\transforms\5dd348be669ca024e01b35988238aaef\transformed\jetified-credentials-1.2.0-rc01\res
+com.munchmatch.app-jetified-material-ripple-release-34 C:\Users\suman\.gradle\caches\8.8\transforms\5fc020fcd0c116d37c4e0a30e31b9f0e\transformed\jetified-material-ripple-release\res
+com.munchmatch.app-jetified-room-ktx-2.6.1-35 C:\Users\suman\.gradle\caches\8.8\transforms\60b01c0e20a1d600663fc0c15a022e96\transformed\jetified-room-ktx-2.6.1\res
+com.munchmatch.app-browser-1.4.0-36 C:\Users\suman\.gradle\caches\8.8\transforms\60d109b5f2dd48cb089b9248147df7e4\transformed\browser-1.4.0\res
+com.munchmatch.app-jetified-profileinstaller-1.3.1-37 C:\Users\suman\.gradle\caches\8.8\transforms\6373692203cb034c9bb862049242e4e3\transformed\jetified-profileinstaller-1.3.1\res
+com.munchmatch.app-cardview-1.0.0-38 C:\Users\suman\.gradle\caches\8.8\transforms\6a435720f30b100792667d65b1b8798b\transformed\cardview-1.0.0\res
+com.munchmatch.app-jetified-navigation-compose-2.8.3-39 C:\Users\suman\.gradle\caches\8.8\transforms\6f836f3aa7c49605c3d261df019e9c54\transformed\jetified-navigation-compose-2.8.3\res
+com.munchmatch.app-core-runtime-2.2.0-40 C:\Users\suman\.gradle\caches\8.8\transforms\723878ce5f7607a6aac75978e2f4b5df\transformed\core-runtime-2.2.0\res
+com.munchmatch.app-jetified-startup-runtime-1.1.1-41 C:\Users\suman\.gradle\caches\8.8\transforms\73019be6a000792feee48319b914337c\transformed\jetified-startup-runtime-1.1.1\res
+com.munchmatch.app-fragment-1.3.6-42 C:\Users\suman\.gradle\caches\8.8\transforms\7971c34e97d5e0978b511e5c726da8c7\transformed\fragment-1.3.6\res
+com.munchmatch.app-jetified-lifecycle-viewmodel-ktx-2.8.6-43 C:\Users\suman\.gradle\caches\8.8\transforms\7b07db1f659641fa43e2a6290eecb426\transformed\jetified-lifecycle-viewmodel-ktx-2.8.6\res
+com.munchmatch.app-jetified-ui-util-release-44 C:\Users\suman\.gradle\caches\8.8\transforms\7d69b7f086d1db56eadc84205abec7a6\transformed\jetified-ui-util-release\res
+com.munchmatch.app-jetified-coil-base-2.6.0-45 C:\Users\suman\.gradle\caches\8.8\transforms\81b983b7a9c5faea0d113aa90b80ac7f\transformed\jetified-coil-base-2.6.0\res
+com.munchmatch.app-jetified-play-services-auth-20.7.0-46 C:\Users\suman\.gradle\caches\8.8\transforms\8adc1d5b381f7fc7188eb97a5573217f\transformed\jetified-play-services-auth-20.7.0\res
+com.munchmatch.app-jetified-runtime-release-47 C:\Users\suman\.gradle\caches\8.8\transforms\8d0b22daf65ba9fd28c221379c2f9a9d\transformed\jetified-runtime-release\res
+com.munchmatch.app-jetified-emoji2-1.3.0-48 C:\Users\suman\.gradle\caches\8.8\transforms\8f797152daac1066a2befd929063f13a\transformed\jetified-emoji2-1.3.0\res
+com.munchmatch.app-jetified-ui-tooling-release-49 C:\Users\suman\.gradle\caches\8.8\transforms\955a4cfae86b18aeb2b00eb6f3206f08\transformed\jetified-ui-tooling-release\res
+com.munchmatch.app-material-1.12.0-50 C:\Users\suman\.gradle\caches\8.8\transforms\9597b72699db3643aca551ba96dce35c\transformed\material-1.12.0\res
+com.munchmatch.app-jetified-ui-tooling-data-release-51 C:\Users\suman\.gradle\caches\8.8\transforms\98a31b3926f57b71e90272117ed5f6c6\transformed\jetified-ui-tooling-data-release\res
+com.munchmatch.app-jetified-firebase-common-21.0.0-52 C:\Users\suman\.gradle\caches\8.8\transforms\a24d901efe73ae5a7e1ad24abfef0a75\transformed\jetified-firebase-common-21.0.0\res
+com.munchmatch.app-jetified-lifecycle-livedata-core-ktx-2.8.6-53 C:\Users\suman\.gradle\caches\8.8\transforms\a3f2c6138acbf786b91d8ad260d0d5e0\transformed\jetified-lifecycle-livedata-core-ktx-2.8.6\res
+com.munchmatch.app-jetified-credentials-play-services-auth-1.2.0-rc01-54 C:\Users\suman\.gradle\caches\8.8\transforms\a4c320728ba3e477d07b0f9b83c4acd1\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\res
+com.munchmatch.app-jetified-material-icons-extended-release-55 C:\Users\suman\.gradle\caches\8.8\transforms\a8356f49fb5870540257fb3368880fce\transformed\jetified-material-icons-extended-release\res
+com.munchmatch.app-jetified-viewpager2-1.0.0-56 C:\Users\suman\.gradle\caches\8.8\transforms\ac8022754e777e1bb4bef1aef938141a\transformed\jetified-viewpager2-1.0.0\res
+com.munchmatch.app-jetified-annotation-experimental-1.4.1-57 C:\Users\suman\.gradle\caches\8.8\transforms\acc4614851a14c8a88df5e26a07e083d\transformed\jetified-annotation-experimental-1.4.1\res
+com.munchmatch.app-navigation-common-2.8.3-58 C:\Users\suman\.gradle\caches\8.8\transforms\b1c6a11b41ce2eceff16edaf05297935\transformed\navigation-common-2.8.3\res
+com.munchmatch.app-coordinatorlayout-1.1.0-59 C:\Users\suman\.gradle\caches\8.8\transforms\ba3e39c730f0db11235722675ad235e6\transformed\coordinatorlayout-1.1.0\res
+com.munchmatch.app-jetified-play-services-maps-18.2.0-60 C:\Users\suman\.gradle\caches\8.8\transforms\bbddeb4dc6b051b504e105b4c0775e97\transformed\jetified-play-services-maps-18.2.0\res
+com.munchmatch.app-jetified-ui-text-release-61 C:\Users\suman\.gradle\caches\8.8\transforms\c32b1b4a3b8cb207025b55ea5d5cd768\transformed\jetified-ui-text-release\res
+com.munchmatch.app-jetified-ui-geometry-release-62 C:\Users\suman\.gradle\caches\8.8\transforms\c713554fcbeb5cbd56e9f7742df7f94e\transformed\jetified-ui-geometry-release\res
+com.munchmatch.app-jetified-activity-compose-1.9.3-63 C:\Users\suman\.gradle\caches\8.8\transforms\c99443a55efad2d3c751da397d291650\transformed\jetified-activity-compose-1.9.3\res
+com.munchmatch.app-jetified-activity-1.9.3-64 C:\Users\suman\.gradle\caches\8.8\transforms\d1aeb3c694c5d1560c0f6ff981153203\transformed\jetified-activity-1.9.3\res
+com.munchmatch.app-jetified-activity-ktx-1.9.3-65 C:\Users\suman\.gradle\caches\8.8\transforms\d27829e5c8f62f761f071799c86a40cb\transformed\jetified-activity-ktx-1.9.3\res
+com.munchmatch.app-jetified-ui-release-66 C:\Users\suman\.gradle\caches\8.8\transforms\d65af21f5bb70c0397113bf385c44034\transformed\jetified-ui-release\res
+com.munchmatch.app-jetified-foundation-release-67 C:\Users\suman\.gradle\caches\8.8\transforms\d94a167a3716d99d294fca5183367fe8\transformed\jetified-foundation-release\res
+com.munchmatch.app-jetified-lifecycle-process-2.8.6-68 C:\Users\suman\.gradle\caches\8.8\transforms\d980efd947915b7a865deed545ec61c8\transformed\jetified-lifecycle-process-2.8.6\res
+com.munchmatch.app-jetified-lifecycle-viewmodel-compose-release-69 C:\Users\suman\.gradle\caches\8.8\transforms\dd59df44ccbb2da09e0ab8e062161df5\transformed\jetified-lifecycle-viewmodel-compose-release\res
+com.munchmatch.app-drawerlayout-1.1.1-70 C:\Users\suman\.gradle\caches\8.8\transforms\e023e1a90cafe11c4688b3b3afe11e09\transformed\drawerlayout-1.1.1\res
+com.munchmatch.app-jetified-appcompat-resources-1.6.1-71 C:\Users\suman\.gradle\caches\8.8\transforms\e1577d8cbe511f5ef2ba1b59972641f5\transformed\jetified-appcompat-resources-1.6.1\res
+com.munchmatch.app-jetified-graphics-path-1.0.1-72 C:\Users\suman\.gradle\caches\8.8\transforms\e63d0d9956396f5f711e9b6a711dd322\transformed\jetified-graphics-path-1.0.1\res
+com.munchmatch.app-jetified-ui-graphics-release-73 C:\Users\suman\.gradle\caches\8.8\transforms\e961b70022e35a55c500c43c55065dc5\transformed\jetified-ui-graphics-release\res
+com.munchmatch.app-jetified-lifecycle-viewmodel-savedstate-2.8.6-74 C:\Users\suman\.gradle\caches\8.8\transforms\eacc6d854db1be4213a44d82dafe384c\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.6\res
+com.munchmatch.app-res-75 C:\Users\suman\Desktop\Android App Development Projects\Delivery\app\build\generated\res\processDebugGoogleServices
+com.munchmatch.app-resValues-76 C:\Users\suman\Desktop\Android App Development Projects\Delivery\app\build\generated\res\resValues\debug
+com.munchmatch.app-packageDebugResources-77 C:\Users\suman\Desktop\Android App Development Projects\Delivery\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.munchmatch.app-packageDebugResources-78 C:\Users\suman\Desktop\Android App Development Projects\Delivery\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.munchmatch.app-debug-79 C:\Users\suman\Desktop\Android App Development Projects\Delivery\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.munchmatch.app-debug-80 C:\Users\suman\Desktop\Android App Development Projects\Delivery\app\src\debug\res
+com.munchmatch.app-main-81 C:\Users\suman\Desktop\Android App Development Projects\Delivery\app\src\main\res

@@ -1,0 +1,5 @@
+<resources>
+    <color name="md_theme_primary">#FF3D00</color>
+    <color name="md_theme_secondary">#FF6D00</color>
+    <color name="md_theme_tertiary">#009688</color>
+</resources>

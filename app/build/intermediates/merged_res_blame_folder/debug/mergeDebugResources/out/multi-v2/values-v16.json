@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.munchmatch.app-mergeDebugResources-78:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\suman\\.gradle\\caches\\8.8\\transforms\\25e4de51c37d39c8f461f85579a23e9b\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}
