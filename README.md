@@ -4,8 +4,7 @@ An Android food discovery and ordering app built with Kotlin and Jetpack Compose
 
 ---
 
-## 📸 Application Screenshots (4 per row)
-
+## 📸 Application Screenshots 
 | ai_alerts_and_notification | ai_chatbot | app_start_symbol | dashboard |
 |---|---|---|---|
 | <img src="assets/screenshots/ai_alerts_and_notification.png" width="200"/> | <img src="assets/screenshots/ai_chatbot.png" width="200"/> | <img src="assets/screenshots/app_start_symbol.png" width="200"/> | <img src="assets/screenshots/dashboard.png" width="200"/> |
