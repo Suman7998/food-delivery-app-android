@@ -4,23 +4,35 @@ An Android food discovery and ordering app built with Kotlin and Jetpack Compose
 
 ---
 
-## 📸 Application Screenshots 
+## 📸 Application Screenshots (4 per row)
 
-| ai_alerts_and_notification | ai_chatbot | app_start_symbol | dashboard | delivery_details | different_dish_burger | different_dish_coke |
-|---|---|---|---|---|---|---|
-| <img src="assets/screenshots/ai_alerts_and_notification.png" width="200"/> | <img src="assets/screenshots/ai_chatbot.png" width="200"/> | <img src="assets/screenshots/app_start_symbol.png" width="200"/> | <img src="assets/screenshots/dashboard.png" width="200"/> | <img src="assets/screenshots/delivery_details.png" width="200"/> | <img src="assets/screenshots/different_dish_burger.png" width="200"/> | <img src="assets/screenshots/different_dish_coke.png" width="200"/> |
+| ai_alerts_and_notification | ai_chatbot | app_start_symbol | dashboard |
+|---|---|---|---|
+| <img src="assets/screenshots/ai_alerts_and_notification.png" width="130"/> | <img src="assets/screenshots/ai_chatbot.png" width="130"/> | <img src="assets/screenshots/app_start_symbol.png" width="130"/> | <img src="assets/screenshots/dashboard.png" width="130"/> |
 
-| different_dish_pasta | different_dish_salad | different_dish_sandwich | different_dish_sushi | dine-in_restaurant_list | firebase_authentication | firebase_cloud_messaging |
-|---|---|---|---|---|---|---|
-| <img src="assets/screenshots/different_dish_pasta.png" width="200"/> | <img src="assets/screenshots/different_dish_salad.png" width="200"/> | <img src="assets/screenshots/different_dish_sandwich.png" width="200"/> | <img src="assets/screenshots/different_dish_sushi.png" width="200"/> | <img src="assets/screenshots/dine-in_restaurant_list.png" width="200"/> | <img src="assets/screenshots/firebase_authentication.png" width="200"/> | <img src="assets/screenshots/firebase_cloud_messaging.png" width="200"/> |
+| delivery_details | different_dish_burger | different_dish_coke | different_dish_pasta |
+|---|---|---|---|
+| <img src="assets/screenshots/delivery_details.png" width="130"/> | <img src="assets/screenshots/different_dish_burger.png" width="130"/> | <img src="assets/screenshots/different_dish_coke.png" width="130"/> | <img src="assets/screenshots/different_dish_pasta.png" width="130"/> |
 
-| firebase_project_details | firebase_users | gpay_summary | login | maps_locations | ml_bert_model | multimedia |
-|---|---|---|---|---|---|---|
-| <img src="assets/screenshots/firebase_project_details.png" width="200"/> | <img src="assets/screenshots/firebase_users.png" width="200"/> | <img src="assets/screenshots/gpay_summary.png" width="200"/> | <img src="assets/screenshots/login.png" width="200"/> | <img src="assets/screenshots/maps_locations.png" width="200"/> | <img src="assets/screenshots/ml_bert_model.png" width="200"/> | <img src="assets/screenshots/multimedia.png" width="200"/> |
+| different_dish_salad | different_dish_sandwich | different_dish_sushi | dine-in_restaurant_list |
+|---|---|---|---|
+| <img src="assets/screenshots/different_dish_salad.png" width="130"/> | <img src="assets/screenshots/different_dish_sandwich.png" width="130"/> | <img src="assets/screenshots/different_dish_sushi.png" width="130"/> | <img src="assets/screenshots/dine-in_restaurant_list.png" width="130"/> |
 
-| order_confirmed | order_type | orders | payment_method | profile | registration | reviews |
-|---|---|---|---|---|---|---|
-| <img src="assets/screenshots/order_confirmed.png" width="200"/> | <img src="assets/screenshots/order_type.png" width="200"/> | <img src="assets/screenshots/orders.png" width="200"/> | <img src="assets/screenshots/payment_method.png" width="200"/> | <img src="assets/screenshots/profile.png" width="200"/> | <img src="assets/screenshots/registration.png" width="200"/> | <img src="assets/screenshots/reviews.png" width="200"/> |
+| firebase_authentication | firebase_cloud_messaging | firebase_project_details | firebase_users |
+|---|---|---|---|
+| <img src="assets/screenshots/firebase_authentication.png" width="130"/> | <img src="assets/screenshots/firebase_cloud_messaging.png" width="130"/> | <img src="assets/screenshots/firebase_project_details.png" width="130"/> | <img src="assets/screenshots/firebase_users.png" width="130"/> |
+
+| gpay_summary | login | maps_locations | ml_bert_model |
+|---|---|---|---|
+| <img src="assets/screenshots/gpay_summary.png" width="130"/> | <img src="assets/screenshots/login.png" width="130"/> | <img src="assets/screenshots/maps_locations.png" width="130"/> | <img src="assets/screenshots/ml_bert_model.png" width="130"/> |
+
+| multimedia | order_confirmed | order_type | orders |
+|---|---|---|---|
+| <img src="assets/screenshots/multimedia.png" width="130"/> | <img src="assets/screenshots/order_confirmed.png" width="130"/> | <img src="assets/screenshots/order_type.png" width="130"/> | <img src="assets/screenshots/orders.png" width="130"/> |
+
+| payment_method | profile | registration | reviews |
+|---|---|---|---|
+| <img src="assets/screenshots/payment_method.png" width="130"/> | <img src="assets/screenshots/profile.png" width="130"/> | <img src="assets/screenshots/registration.png" width="130"/> | <img src="assets/screenshots/reviews.png" width="130"/> |
 
 ## At a Glance
 - App name: Munch Match
