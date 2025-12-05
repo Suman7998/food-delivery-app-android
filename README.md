@@ -210,7 +210,3 @@ And define `MAPS_API_KEY=your_key` in your `~/.gradle/gradle.properties` or proj
 - Add UI tests and unit tests for ViewModels/DAO.
 - Improve chatbot with real LLM or on-device ML.
 
----
-
-## License
-Specify your license here (e.g., MIT, Apache-2.0) or keep the repository private if proprietary.
