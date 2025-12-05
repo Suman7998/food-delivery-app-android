@@ -4,34 +4,42 @@ An Android food discovery and ordering app built with Kotlin and Jetpack Compose
 
 ---
 
-## 📸 Application Screenshots 
-| ai_alerts_and_notification | ai_chatbot | app_start_symbol | dashboard |
+## 📸 Application Screenshots  
+
+### 🔥 Core Interface & AI Features
+| AI Alerts & Notification | AI Chatbot | App Start Screen | Main Dashboard |
 |---|---|---|---|
 | <img src="assets/screenshots/ai_alerts_and_notification.png" width="200"/> | <img src="assets/screenshots/ai_chatbot.png" width="200"/> | <img src="assets/screenshots/app_start_symbol.png" width="200"/> | <img src="assets/screenshots/dashboard.png" width="200"/> |
 
-| delivery_details | different_dish_burger | different_dish_coke | different_dish_pasta |
+### 🍽 Food Menu & Ordering Screens
+| Delivery Details | Burger Dish | Coke Drink Item | Pasta Dish |
 |---|---|---|---|
 | <img src="assets/screenshots/delivery_details.png" width="200"/> | <img src="assets/screenshots/different_dish_burger.png" width="200"/> | <img src="assets/screenshots/different_dish_coke.png" width="200"/> | <img src="assets/screenshots/different_dish_pasta.png" width="200"/> |
 
-| different_dish_salad | different_dish_sandwich | different_dish_sushi | dine-in_restaurant_list |
+| Salad Plate | Sandwich Meal | Sushi Dish | Dine-In Restaurant List |
 |---|---|---|---|
 | <img src="assets/screenshots/different_dish_salad.png" width="200"/> | <img src="assets/screenshots/different_dish_sandwich.png" width="200"/> | <img src="assets/screenshots/different_dish_sushi.png" width="200"/> | <img src="assets/screenshots/dine-in_restaurant_list.png" width="200"/> |
 
-| firebase_authentication | firebase_cloud_messaging | firebase_project_details | firebase_users |
+### 🔥 Cloud Backend & Firebase Modules
+| Firebase Authentication | Firebase Cloud Messaging | Firebase Project Details | Firebase Users DB |
 |---|---|---|---|
 | <img src="assets/screenshots/firebase_authentication.png" width="200"/> | <img src="assets/screenshots/firebase_cloud_messaging.png" width="200"/> | <img src="assets/screenshots/firebase_project_details.png" width="200"/> | <img src="assets/screenshots/firebase_users.png" width="200"/> |
 
-| gpay_summary | login | maps_locations | ml_bert_model |
+### 📍 Location, Payments & AI Recommendation
+| Payment Summary (GPay) | Login Screen | Map Restaurant Locations | ML BERT Recommendation |
 |---|---|---|---|
 | <img src="assets/screenshots/gpay_summary.png" width="200"/> | <img src="assets/screenshots/login.png" width="200"/> | <img src="assets/screenshots/maps_locations.png" width="200"/> | <img src="assets/screenshots/ml_bert_model.png" width="200"/> |
 
-| multimedia | order_confirmed | order_type | orders |
+### 📦 Order & UI Workflow Screens
+| Multimedia Upload | Order Confirmed | Order Method Selection | Order List |
 |---|---|---|---|
 | <img src="assets/screenshots/multimedia.png" width="200"/> | <img src="assets/screenshots/order_confirmed.png" width="200"/> | <img src="assets/screenshots/order_type.png" width="200"/> | <img src="assets/screenshots/orders.png" width="200"/> |
 
-| payment_method | profile | registration | reviews |
+### 👤 User & Review Panels
+| Payment Method | Profile Screen | Registration | User Reviews |
 |---|---|---|---|
 | <img src="assets/screenshots/payment_method.png" width="200"/> | <img src="assets/screenshots/profile.png" width="200"/> | <img src="assets/screenshots/registration.png" width="200"/> | <img src="assets/screenshots/reviews.png" width="200"/> |
+
 
 ## At a Glance
 - App name: Munch Match
